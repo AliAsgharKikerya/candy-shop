@@ -1,0 +1,111 @@
+.nav-link:hover{
+    color:white;
+    background-color:gray;
+    border-radius:20px;
+
+} 
+
+.sec2{
+   width:75vw;
+   height:75vh;
+   background-repeat:no-repeat;
+   margin-left:10px;
+   display: flex;
+   font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+
+b{
+   margin-top:20px;
+   margin-left:150px;
+    
+}
+
+.rounded circle{
+    margin-left:20px;
+}
+
+.sec3-heading{
+    margin-bottom: 80px;
+}
+
+.sec3-btn{
+    background-color: #fe3939;
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.card-btns a{
+    text-decoration: none;
+    padding: 5px 14px;
+    border-radius: 20px;
+    color: #7b7b7b;
+    border: 2px solid #7b7b7b;
+}
+
+.card-txt{
+    color: #5e5d5d;
+    line-height: 1.7;
+    font-size: 17px;
+}
+
+.card-learn a{
+    text-decoration: none;
+    background-color: #000;
+    color: #fff;
+    font-weight: bold;
+    padding: 8px 20px;
+    border-radius: 20px;
+}
+
+.card-learn a:hover{
+    background-color: #fe3939;
+}
+
+.sm-card-main{
+    background-color: #fbf8f6;
+    padding: 35px 20px;
+    border-radius: 20px;
+}
+
+.sm-card-btn a{
+    background-color: #fe3939;
+    color: #fff;
+    padding: 8px 10px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.sm-add a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.sm-add a:hover{
+    color: #fe3939;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
